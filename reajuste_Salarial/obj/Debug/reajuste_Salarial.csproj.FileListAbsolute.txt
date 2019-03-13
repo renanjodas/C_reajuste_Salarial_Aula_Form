@@ -8,3 +8,13 @@ C:\Users\aluno\Desktop\_reajusteSalarial\reajuste_Salarial\reajuste_Salarial\obj
 C:\Users\aluno\Desktop\_reajusteSalarial\reajuste_Salarial\reajuste_Salarial\obj\Debug\reajuste_Salarial.csproj.CoreCompileInputs.cache
 C:\Users\aluno\Desktop\_reajusteSalarial\reajuste_Salarial\reajuste_Salarial\obj\Debug\reajuste_Salarial.exe
 C:\Users\aluno\Desktop\_reajusteSalarial\reajuste_Salarial\reajuste_Salarial\obj\Debug\reajuste_Salarial.pdb
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\bin\Debug\reajuste_Salarial.exe.config
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\bin\Debug\reajuste_Salarial.exe
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\bin\Debug\reajuste_Salarial.pdb
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\obj\Debug\reajuste_Salarial.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\obj\Debug\reajuste_Salarial.FormReajusteSalarial.resources
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\obj\Debug\reajuste_Salarial.Properties.Resources.resources
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\obj\Debug\reajuste_Salarial.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\obj\Debug\reajuste_Salarial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\obj\Debug\reajuste_Salarial.exe
+C:\Users\Usuario\Documents\Projetos\C_reajuste_Salarial_Aula_Form\reajuste_Salarial\obj\Debug\reajuste_Salarial.pdb
